@@ -1,0 +1,9 @@
+C:\Users\Opu\Desktop\Personal Information\Personal Information\bin\Debug\Personal Information.exe.config
+C:\Users\Opu\Desktop\Personal Information\Personal Information\bin\Debug\Personal Information.exe
+C:\Users\Opu\Desktop\Personal Information\Personal Information\bin\Debug\Personal Information.pdb
+C:\Users\Opu\Desktop\Personal Information\Personal Information\obj\Debug\Personal Information.csprojResolveAssemblyReference.cache
+C:\Users\Opu\Desktop\Personal Information\Personal Information\obj\Debug\Personal_Information.Form1.resources
+C:\Users\Opu\Desktop\Personal Information\Personal Information\obj\Debug\Personal_Information.Properties.Resources.resources
+C:\Users\Opu\Desktop\Personal Information\Personal Information\obj\Debug\Personal Information.csproj.GenerateResource.Cache
+C:\Users\Opu\Desktop\Personal Information\Personal Information\obj\Debug\Personal Information.exe
+C:\Users\Opu\Desktop\Personal Information\Personal Information\obj\Debug\Personal Information.pdb
